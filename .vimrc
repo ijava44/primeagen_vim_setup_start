@@ -35,7 +35,7 @@ colorscheme gruvbox
 set background=dark
 
 if executable('rg')
-    let g:rg_dervive_root='true'
+    let g:rg_derive_root='true'
 endif
 
 let g:ctrlp_user_command = ['git/', 'git --git-dir=%s/.git ls-files -oc --exclude-standard']
