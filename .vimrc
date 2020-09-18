@@ -25,8 +25,8 @@ Plug 'tpope/vim-fugitive'
 Plug 'leafgarland/typescript-vim'
 Plug 'vim-utils/vim-man'
 Plug 'lyuts/vim-rtags'
-Plug 'git@github.com.kien/ctrlp.vim.git'
-Plug 'git@github.com:Valloric/YouCompleteMe.git'
+Plug 'https://github.com/kien/ctrlp.vim.git'
+Plug 'https://github.com/Valloric/YouCompleteMe.git'
 Plug 'mbbill/undotree'
 
 call plug#end()
