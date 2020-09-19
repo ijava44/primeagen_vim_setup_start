@@ -39,7 +39,7 @@ if executable('rg')
 endif
 
 let g:ctrlp_user_command = ['.git/', 'git --git-dir=%s/.git ls-files -oc --exclude-standard']
-let mapleader = " "
+let mapleader = " " 
 let g:netrw_browse_split=2
 let g:netrw_banner = 0
 let g:netrw_winsize = 25
